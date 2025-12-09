@@ -23,10 +23,4 @@
 
 ---
 
-## 🚀 Usage
-
-### Option A — Run directly (elevated PowerShell)
-```powershell
-Set-ExecutionPolicy RemoteSigned -Scope Process -Force
-
-# Clone or download the repo, then:
+View Wiki page for more troubleshooting steps - https://github.com/MalcolmGit2023/Globalprotect-uninstaller/wiki/KB-Article#:~:text=Home-,KB%20Article,-%F0%9F%9B%A0%20GlobalProtect%20VPN%20Troubleshooting
